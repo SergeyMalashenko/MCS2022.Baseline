@@ -1,4 +1,4 @@
-exp_name: 'baseline_mcs'
+exp_name: 'baseline_mcs_resnet18'
 outdir: './experiments/'
 
 num_gpu: 1

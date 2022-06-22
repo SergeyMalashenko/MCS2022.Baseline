@@ -1,4 +1,4 @@
-exp_name: 'baseline_mcs'
+exp_name: 'baseline_mcs_inception_v3'
 outdir: './experiments/'
 
 num_gpu: 1
@@ -17,7 +17,7 @@ dataset:
 
 
 model:
-    arch: 'resnet18'
+    arch: 'inception_v3'
 
 train:
     optimizer: 'SGD'
